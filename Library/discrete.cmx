@@ -1,0 +1,68 @@
+7SEG||#DIP=10||@Value=7 Segment Display||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Battery||#MISC=2||@Value=9V||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+C||#SM=2||@Value=100nF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=2||@Value=100nF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CP||#SM=2||@Value=100uF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=2||@Value=100uF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CP-SM||#SM=2||@Value=100uF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=2||@Value=100uF||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CP1||#DSCV=2||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CP3||#DSCV=2||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CP4||#DSCV=2||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CP5||#DSCV=2||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CP6||#DSCV=2||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CT1||#DSC=3||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=2||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CT2||#DSC=3||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=3||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CV1||#DSC=6||@Value=100p||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+D||#DSC=2||@Value=2N0000||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=2||@Value=2N0000||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+D-SM||#SM=2||@Value=1N4148||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=2||@Value=1N4148||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=2||@Value=2N0000||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DPDT||#DSC=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=7||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+FUSE||#DSC=2||@Value=12V||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=4||@Value=12V||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+FUSE2||#DSC=2||@Value=12V||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=4||@Value=12V||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+FUSE3||#DSC=4||@Value=12V||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+L||#SM=2||@Value=1pH||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=2||@Value=1pH||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LED||#DSC=2||@Value=LED 5MM RED||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=2||@Value=LED 5MM RED||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+NFET||#SM=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+NMOS||#DSC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+NPNTRAN||#SM=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PFET||#SM=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PMOS||#DSC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PNPTRAN||#SM=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PRESET||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R||#SM=2||@Value=1K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=2||@Value=1K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R-SM||#SM=2||@Value=1K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=2||@Value=1K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R3||#DSC=6||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R3C||#DSC=4||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R4||#DSC=8||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R4C||#DSC=5||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R5||#DSC=10||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R5C||#DSC=6||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R6C||#DSC=7||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R7C||#DSC=8||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R8C||#DSC=9||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R9C||#DSC=10||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA||#SM=2||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=2||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA-SM||#SM=2||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA3||#DSC=6||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA3C||#DSC=4||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA4||#DSC=8||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA4C||#DSC=5||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA5||#DSC=10||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA5C||#DSC=6||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA6C||#DSC=7||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA7C||#DSC=8||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA8C||#DSC=9||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA9C||#DSC=10||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA_2POT||#DSC=6||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA_POT||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=5||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA_PRE||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA_PREC||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+RA_PREM||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R_2POT||#DSC=6||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R_POT||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=5||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R_PRE||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R_PREC||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R_PREM||#DSC=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Value=10K||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+SCR||#SM=3||@Value=200V 0.25A SOT-23||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+SPDT||#DSC=5||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSCV=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+SW_FSM2JH||#DISC=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+TRIAC||#SM=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#DSC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+XTAL||#DSC=2||@Value=32.768KHZ||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+ZENER||#DSC=2||@Value=1N5359||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#MISC=2||@Value=1N5359||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
