@@ -9,6 +9,7 @@ ADUM1201||#SM=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Dis
 ADUM1401||#SM=16||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 Array Bypass Diode||#SM=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 CLK||#SM=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CMX60D10||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 C_sm0805||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 C_sm1206||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 C_sm1210||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
@@ -33,6 +34,7 @@ Radial Ind||#DSC=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@
 RJ45_CAN||#USER=12||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 RS07J-GS18||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 R_sm0805||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+SBR30A45CT||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 SPDT switch||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 uLCD28PT||#USER=5||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
 VI-J00||#USER=15||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
