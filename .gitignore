@@ -3,6 +3,9 @@
 !.gitignore
 !.gitattributes
 
+!*.epf
+!*.s#*
+
 !*.pcb
 !*.sch
 !*.cml
