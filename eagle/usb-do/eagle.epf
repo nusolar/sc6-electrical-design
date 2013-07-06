@@ -7,6 +7,7 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
+UsedLibrary="/Users/alex/GitHub/sc6-electrical-design/Library/DodoMicroR3.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/19inch.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/40xx.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/41xx.lbr"
@@ -340,11 +341,10 @@ UsedLibrary="/Applications/EAGLE-6.4.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/zetex.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/zilog.lbr"
-UsedLibrary="/Users/alex/GitHub/sc6-electrical-design/Library/DodoMicroR3.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="190 273 1217 733"
+Loc="80 308 1107 768"
 State=2
 Number=0
 
