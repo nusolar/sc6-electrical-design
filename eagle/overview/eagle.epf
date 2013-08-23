@@ -359,10 +359,11 @@ UsedLibrary="/Applications/EAGLE-6.4.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/zetex.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/zilog.lbr"
+UsedLibrary="/Users/alex/GitHub/sc6-electrical-design/Library/nusolar_components.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="20 239 619 638"
+Loc="187 248 998 680"
 State=2
 Number=0
 
