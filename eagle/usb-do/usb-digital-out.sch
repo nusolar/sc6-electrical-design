@@ -12836,6 +12836,57 @@ www.dodotronic.com</description>
 </deviceset>
 </devicesets>
 </library>
+<library name="nusolar_components">
+<packages>
+<package name="DDPAK-5">
+<smd name="GROUND" x="0" y="0" dx="11.43" dy="8.89" layer="1"/>
+<wire x1="-5.715" y1="4.445" x2="-5.715" y2="-13.335" width="0.127" layer="21"/>
+<smd name="FEEDBACK" x="-1.7018" y="-11.43" dx="1.2954" dy="3.81" layer="1"/>
+<smd name="COMP" x="-3.4036" y="-11.43" dx="1.2954" dy="3.81" layer="1"/>
+<smd name="SWITCH" x="1.7018" y="-11.43" dx="1.2954" dy="3.81" layer="1"/>
+<smd name="VIN" x="3.4036" y="-11.43" dx="1.2954" dy="3.81" layer="1"/>
+<wire x1="-5.715" y1="-13.335" x2="5.715" y2="-13.335" width="0.127" layer="21"/>
+<wire x1="5.715" y1="-13.335" x2="5.715" y2="4.445" width="0.127" layer="21"/>
+<wire x1="5.715" y1="4.445" x2="-5.715" y2="4.445" width="0.127" layer="21"/>
+<text x="-5.08" y="5.08" size="1.27" layer="25">Name</text>
+<text x="-5.08" y="-15.24" size="1.27" layer="27">value</text>
+</package>
+</packages>
+<symbols>
+<symbol name="LM2577">
+<wire x1="-12.7" y1="7.62" x2="12.7" y2="7.62" width="0.254" layer="94"/>
+<wire x1="12.7" y1="7.62" x2="12.7" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="12.7" y1="-7.62" x2="-12.7" y2="-7.62" width="0.254" layer="94"/>
+<wire x1="-12.7" y1="-7.62" x2="-12.7" y2="7.62" width="0.254" layer="94"/>
+<pin name="COMP" x="-17.78" y="0" length="middle"/>
+<pin name="FEEDBACK" x="17.78" y="0" length="middle" rot="R180"/>
+<pin name="GND" x="0" y="-12.7" length="middle" rot="R90"/>
+<pin name="VIN" x="-7.62" y="12.7" length="middle" rot="R270"/>
+<pin name="SWITCH" x="7.62" y="12.7" length="middle" rot="R270"/>
+</symbol>
+</symbols>
+<devicesets>
+<deviceset name="LM2577">
+<gates>
+<gate name="G$1" symbol="LM2577" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="DDPAK-5">
+<connects>
+<connect gate="G$1" pin="COMP" pad="COMP"/>
+<connect gate="G$1" pin="FEEDBACK" pad="FEEDBACK"/>
+<connect gate="G$1" pin="GND" pad="GROUND"/>
+<connect gate="G$1" pin="SWITCH" pad="SWITCH"/>
+<connect gate="G$1" pin="VIN" pad="VIN"/>
+</connects>
+<technologies>
+<technology name=""/>
+</technologies>
+</device>
+</devices>
+</deviceset>
+</devicesets>
+</library>
 </libraries>
 <attributes>
 </attributes>
@@ -12865,31 +12916,33 @@ www.dodotronic.com</description>
 <part name="P+4" library="supply1" deviceset="+5V" device=""/>
 <part name="IC2" library="DodoMicroR3" deviceset="PIC32MX795F512" device="L"/>
 <part name="IC3" library="11-egna-ic" deviceset="USB-UART-FT234XD" device=""/>
+<part name="U$1" library="nusolar_components" deviceset="LM2577" device=""/>
 </parts>
 <sheets>
 <sheet>
 <plain>
 </plain>
 <instances>
-<instance part="P+1" gate="1" x="152.4" y="81.28"/>
-<instance part="C1" gate="G$1" x="157.48" y="76.2"/>
-<instance part="C2" gate="G$1" x="157.48" y="48.26"/>
-<instance part="GND1" gate="1" x="157.48" y="68.58"/>
-<instance part="GND2" gate="1" x="157.48" y="40.64"/>
-<instance part="GND3" gate="1" x="175.26" y="45.72"/>
-<instance part="GND4" gate="1" x="203.2" y="58.42"/>
-<instance part="R1" gate="G$1" x="157.48" y="55.88" rot="R90"/>
-<instance part="C3" gate="G$1" x="203.2" y="66.04"/>
-<instance part="L1" gate="G$1" x="175.26" y="78.74" rot="R90"/>
-<instance part="D1" gate="1" x="187.96" y="78.74"/>
-<instance part="P+2" gate="1" x="210.82" y="81.28"/>
+<instance part="P+1" gate="1" x="162.56" y="81.28"/>
+<instance part="C1" gate="G$1" x="175.26" y="68.58"/>
+<instance part="C2" gate="G$1" x="175.26" y="33.02"/>
+<instance part="GND1" gate="1" x="175.26" y="58.42"/>
+<instance part="GND2" gate="1" x="175.26" y="20.32"/>
+<instance part="GND3" gate="1" x="198.12" y="20.32"/>
+<instance part="GND4" gate="1" x="228.6" y="20.32"/>
+<instance part="R1" gate="G$1" x="175.26" y="43.18" rot="R90"/>
+<instance part="C3" gate="G$1" x="228.6" y="38.1"/>
+<instance part="L1" gate="G$1" x="198.12" y="71.12" rot="R90"/>
+<instance part="D1" gate="1" x="218.44" y="71.12"/>
+<instance part="P+2" gate="1" x="228.6" y="78.74"/>
 <instance part="X2" gate="G$1" x="-55.88" y="45.72" rot="R180"/>
 <instance part="P+3" gate="1" x="-45.72" y="40.64"/>
-<instance part="GND5" gate="1" x="-50.8" y="53.34" rot="R180"/>
+<instance part="GND5" gate="1" x="-50.8" y="55.88" rot="R180"/>
 <instance part="GND6" gate="1" x="-27.94" y="35.56" rot="R180"/>
 <instance part="P+4" gate="1" x="-20.32" y="63.5"/>
 <instance part="IC2" gate="G$1" x="86.36" y="22.86"/>
 <instance part="IC3" gate="G$1" x="-5.08" y="43.18"/>
+<instance part="U$1" gate="G$1" x="198.12" y="48.26"/>
 </instances>
 <busses>
 </busses>
@@ -12898,22 +12951,27 @@ www.dodotronic.com</description>
 <segment>
 <pinref part="GND1" gate="1" pin="GND"/>
 <pinref part="C1" gate="G$1" pin="2"/>
+<wire x1="175.26" y1="60.96" x2="175.26" y2="63.5" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="C2" gate="G$1" pin="2"/>
 <pinref part="GND2" gate="1" pin="GND"/>
+<wire x1="175.26" y1="22.86" x2="175.26" y2="27.94" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND4" gate="1" pin="GND"/>
 <pinref part="C3" gate="G$1" pin="-"/>
+<wire x1="228.6" y1="22.86" x2="228.6" y2="33.02" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND3" gate="1" pin="GND"/>
-<wire x1="175.26" y1="48.26" x2="175.26" y2="53.34" width="0.1524" layer="91"/>
+<wire x1="198.12" y1="22.86" x2="198.12" y2="35.56" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="GND"/>
 </segment>
 <segment>
 <pinref part="X2" gate="G$1" pin="5"/>
 <pinref part="GND5" gate="1" pin="GND"/>
+<wire x1="-50.8" y1="53.34" x2="-50.8" y2="50.8" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="GND6" gate="1" pin="GND"/>
@@ -12923,56 +12981,37 @@ www.dodotronic.com</description>
 </net>
 <net name="+5V" class="0">
 <segment>
-<pinref part="P+1" gate="1" pin="+5V"/>
-<wire x1="152.4" y1="78.74" x2="157.48" y2="78.74" width="0.1524" layer="91"/>
-<pinref part="C1" gate="G$1" pin="1"/>
-<pinref part="L1" gate="G$1" pin="1"/>
-<junction x="167.64" y="78.74"/>
-<wire x1="167.64" y1="78.74" x2="157.48" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="167.64" y1="78.74" x2="167.64" y2="68.58" width="0.1524" layer="91"/>
-</segment>
-<segment>
-<pinref part="X2" gate="G$1" pin="1"/>
-<pinref part="P+3" gate="1" pin="+5V"/>
-<wire x1="-50.8" y1="40.64" x2="-45.72" y2="38.1" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <pinref part="IC3" gate="G$1" pin="VCC"/>
 <pinref part="P+4" gate="1" pin="+5V"/>
 <wire x1="-20.32" y1="55.88" x2="-20.32" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="P+1" gate="1" pin="+5V"/>
+<wire x1="162.56" y1="78.74" x2="162.56" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="C1" gate="G$1" pin="1"/>
+<wire x1="162.56" y1="71.12" x2="175.26" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="L1" gate="G$1" pin="1"/>
+<wire x1="175.26" y1="71.12" x2="187.96" y2="71.12" width="0.1524" layer="91"/>
+<junction x="175.26" y="71.12"/>
+<wire x1="187.96" y1="71.12" x2="190.5" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="187.96" y1="71.12" x2="187.96" y2="60.96" width="0.1524" layer="91"/>
+<junction x="187.96" y="71.12"/>
+<pinref part="U$1" gate="G$1" pin="VIN"/>
+<wire x1="187.96" y1="60.96" x2="190.5" y2="60.96" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="X2" gate="G$1" pin="1"/>
+<wire x1="-50.8" y1="40.64" x2="-50.8" y2="33.02" width="0.1524" layer="91"/>
+<wire x1="-50.8" y1="33.02" x2="-45.72" y2="33.02" width="0.1524" layer="91"/>
+<pinref part="P+3" gate="1" pin="+5V"/>
+<wire x1="-45.72" y1="33.02" x2="-45.72" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
 <pinref part="C2" gate="G$1" pin="1"/>
 <pinref part="R1" gate="G$1" pin="1"/>
-</segment>
-</net>
-<net name="N$2" class="0">
-<segment>
-<pinref part="L1" gate="G$1" pin="2"/>
-<pinref part="D1" gate="1" pin="A"/>
-<wire x1="182.88" y1="78.74" x2="185.42" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="182.88" y1="78.74" x2="182.88" y2="68.58" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="+12V" class="0">
-<segment>
-<pinref part="P+2" gate="1" pin="+12V"/>
-<pinref part="D1" gate="1" pin="C"/>
-<wire x1="210.82" y1="78.74" x2="203.2" y2="78.74" width="0.1524" layer="91"/>
-<pinref part="C3" gate="G$1" pin="+"/>
-<wire x1="203.2" y1="78.74" x2="193.04" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="193.04" y1="78.74" x2="190.5" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="203.2" y1="68.58" x2="203.2" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="193.04" y1="78.74" x2="193.04" y2="60.96" width="0.1524" layer="91"/>
-<wire x1="193.04" y1="60.96" x2="182.88" y2="60.96" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="N$3" class="0">
-<segment>
-<pinref part="R1" gate="G$1" pin="2"/>
-<wire x1="157.48" y1="60.96" x2="167.64" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="175.26" y1="35.56" x2="175.26" y2="38.1" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$4" class="0">
@@ -12989,6 +13028,40 @@ www.dodotronic.com</description>
 <wire x1="-25.4" y1="45.72" x2="-50.8" y2="45.72" width="0.1524" layer="91"/>
 <pinref part="IC3" gate="G$1" pin="USBDP"/>
 <wire x1="-25.4" y1="45.72" x2="-20.32" y2="43.18" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$2" class="0">
+<segment>
+<pinref part="R1" gate="G$1" pin="2"/>
+<pinref part="U$1" gate="G$1" pin="COMP"/>
+<wire x1="175.26" y1="48.26" x2="180.34" y2="48.26" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$3" class="0">
+<segment>
+<pinref part="L1" gate="G$1" pin="2"/>
+<pinref part="D1" gate="1" pin="A"/>
+<wire x1="205.74" y1="71.12" x2="208.28" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="SWITCH"/>
+<wire x1="208.28" y1="71.12" x2="215.9" y2="71.12" width="0.1524" layer="91"/>
+<wire x1="205.74" y1="60.96" x2="208.28" y2="60.96" width="0.1524" layer="91"/>
+<wire x1="208.28" y1="60.96" x2="208.28" y2="71.12" width="0.1524" layer="91"/>
+<junction x="208.28" y="71.12"/>
+</segment>
+</net>
+<net name="+12V" class="0">
+<segment>
+<pinref part="D1" gate="1" pin="C"/>
+<wire x1="220.98" y1="71.12" x2="228.6" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="P+2" gate="1" pin="+12V"/>
+<wire x1="228.6" y1="71.12" x2="228.6" y2="76.2" width="0.1524" layer="91"/>
+<pinref part="U$1" gate="G$1" pin="FEEDBACK"/>
+<pinref part="C3" gate="G$1" pin="+"/>
+<wire x1="215.9" y1="48.26" x2="228.6" y2="48.26" width="0.1524" layer="91"/>
+<wire x1="228.6" y1="48.26" x2="228.6" y2="40.64" width="0.1524" layer="91"/>
+<wire x1="228.6" y1="48.26" x2="228.6" y2="71.12" width="0.1524" layer="91"/>
+<junction x="228.6" y="48.26"/>
+<junction x="228.6" y="71.12"/>
 </segment>
 </net>
 </nets>
