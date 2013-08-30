@@ -8,6 +8,7 @@ Desktop="Desktop"
 [Globals]
 AutoSaveProject=1
 UsedLibrary="/Users/alex/GitHub/sc6-electrical-design/Library/DodoMicroR3.lbr"
+UsedLibrary="/Users/alex/GitHub/sc6-electrical-design/Library/nusolar_components.lbr"
 UsedLibrary="/Users/alex/GitHub/Eagle-Library/11-egna-ic.lbr"
 UsedLibrary="/Users/alex/GitHub/SparkFun-Eagle-Libraries/LilyPad-Wearables.lbr"
 UsedLibrary="/Users/alex/GitHub/SparkFun-Eagle-Libraries/SparkFun-Aesthetics.lbr"
@@ -359,7 +360,6 @@ UsedLibrary="/Applications/EAGLE-6.4.0/lbr/xilinx-xc9.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/xilinx-xcv.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/zetex.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/zilog.lbr"
-UsedLibrary="/Users/alex/GitHub/sc6-electrical-design/Library/nusolar_components.lbr"
 
 [Win_1]
 Type="Control Panel"
