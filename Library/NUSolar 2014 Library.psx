@@ -1,6 +1,7 @@
 Arduino Due||86
 FTDI connector||6
 L01Z100S05||5
+LittleFuse||2
 LTC6804||48
 LTC6804_v2||48
 LTC6820||16
@@ -9,3 +10,4 @@ LTC6820_v3||16
 PE-68386NL||6
 sensor_board_breakout||22
 SOT-23||3
+Zener diode||2
