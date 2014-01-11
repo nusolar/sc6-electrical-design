@@ -1,0 +1,15 @@
+10K Pot||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+30 Pin Header||#USER=30||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+A31422 Modular connector 6-6||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+CTX169 Clock||#DIL=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DB37||#USER=39||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Fuse_custom||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+IRF640||#DSC=3||@GM=6mS||@HFE=20||@FT=600Mhz||@IC=10mA||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+IRF9140||#DSC=4||@GM=7S||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Omron G2RL-1A||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PIC chip 18F4520-I P||#USER=40||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PIC LED Strip||#DIP=72||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Powerpole 2 Right Angle||#Powerpole=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Powerpole 5 Right Angle||#Powerpole=5||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R 0.25W 5% MCF 0||#R=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Reset Switch||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=

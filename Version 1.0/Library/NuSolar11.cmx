@@ -1,0 +1,54 @@
+10K Pot||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+3433-6502 Voltage Mux (32 IP)||#3MHDR-50=50||@Mfr=3M||@Category=Connector/Header/Latched||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-0221 MicroFit2PinRAngle||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-0228 MicroFit2PinVert||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-0421 MicroFit4PinRAngle||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-0428 MicroFit4PinVert||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-0621 MicroFit6PinRAngle||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-0628 MicroFit6PinVert||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-1221 MicroFit12PinRAngle||#USER=14||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-1228 MicroFit12PinVert||#USER=14||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-2421 MicroFit24PinRAngle||#USER=26||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43045-2428 MicroFit24PinVert||#USER=26||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43160-0102 Sabre2PinVert||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43160-0103 Sabre3PinVert||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43160-0106 Sabre6PinVert||#USER=14||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43650-0201 MicroFit2PinRAngle||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43650-0228 MicroFit2PinVert||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43650-0301 MicroFit3PinRAngle||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43650-0328 MicroFit3PinVert||#USER=5||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43650-0401 MicroFit4PinRAngle||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43650-0428 MicroFit4PinVert||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43650-0601 MicroFit6PinRAngle||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+43650-0628 MicroFit6PinVert||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+46007-1102 Sabre2PinRAngle||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+46007-1103 Sabre3PinRAngle||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+46007-1106 Sabre6PinRAngle||#USER=14||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39290023 MiniFit2PinVert||#USER=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39290043 MiniFit4PinVert||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39290063 MiniFit6PinVert||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39290123 MiniFit12PinVert||#USER=12||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39290243 MiniFit24PinVert||#USER=24||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39294029 MiniFit2PinRAngle||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39294049 MiniFit4PinRAngle||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39294069 MiniFit6PinRAngle||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39294129 MiniFit12PinRAngle||#USER=14||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+39294249 MiniFit24PinRAngle||#USER=26||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DC-DC 12 to 5 VI-J00-EY||#USER=10||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DC-DC 110 to 12 VI-JT1-EY||#USER=10||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DG408 MUX||#PDIP=16||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Fuse_glass||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Fuse_miniblade||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+INA12P-Instrumentation Amp||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+INA148||#SM=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LM358AN||#DIP8=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LM358AN-nusolar||#DIP8=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Micro DC-DC 12V V110C12C100BL||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Mini DC-DC V110B24C200BL||#USER=10||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PIC18 breakout board||#USER=38||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Powerpole 2 pin||#USER=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Powerpole 3 pin||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Powerpole 4 pin||#USER=4||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Relay_G2RL-1A||#USER=5||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Sabre5Pin||#USER=12||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Wolf||#USER=108||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=

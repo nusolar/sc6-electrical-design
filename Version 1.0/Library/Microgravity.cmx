@@ -1,0 +1,27 @@
++2.5V
+6 pin header||#USER=6||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+AD7980||#SM=10||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+AD8021||#SM=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+ADR425||#SM=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+C_1206||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+C_2917||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+C_discrete||#DSC=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DC-DC VI-J00 Series||#USER=11||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DCP021212||#DIL=14||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+DG408 MUX||#PDIP=16||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Fuse_miniblade||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+INA12P-Instrumentation Amp||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Jumper||#USER=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LM335||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LM2937-2.5||#DSC=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LTC4440||#SM=9||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+LTC6655||#SM=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PIC18 breakout board||#USER=38||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PIC18 schema
+Pot||#USER=3||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+PressureSense||#USER=8||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+R_sm0603||#SM=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Vicor 01000||#DSC=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Vicor 30268||#MISC=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Vicor 30800||#MISC=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
+Vishay MKT1820615015||#USER=2||@Manufacturer=||@Manufacturer Part Number=||@Distributor=||@Distributor Part Number=
